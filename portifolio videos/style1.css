@@ -1,0 +1,105 @@
+css video
+*{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+}
+ 
+.banner1 {
+    margin-top: 60px;
+    background-color: rgb(25, 25, 25);
+    width: 100%;
+    display:flex;                              
+    align-items: center;                      
+    justify-content:center;  
+    color: rgb(36, 33, 33);    
+    height: 70px;    
+    font-size: medium;
+}
+ 
+.banner {
+background-color: #222;
+width: 100%;
+display:flex;                              
+align-items: center;                      
+justify-content:center;  
+color: #ffffff;    
+height: 170px;    
+font-size: xx-large;    
+padding-top: 30px; 
+    
+}
+ 
+.box {
+    height: 150px;
+    border: 3px solid black;    
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+ 
+.titulo{
+    padding-top: 25px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    font-style: bold;
+}
+ 
+.box1 {
+    height: 350px;
+    border: 3px solid black;    
+    border-radius: 20px;
+    margin-bottom: 20px;
+    width: 98%;
+    display: flex;
+     flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 25px;
+    padding-left: 25px;
+ 
+}
+.video-item {
+    width: 30%;
+    height: auto;
+    }
+   
+   
+    .videobox {
+    width: 100%;
+    height: auto;
+   
+    }
+ 
+    .video {
+        width: 99%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 60px;
+        margin-bottom: 20px;
+        height: 330px;
+        border: 3px solid black;    
+        border-radius: 20px;
+        padding-top: 25px;
+        padding-left: 10px;
+    }
+ 
+ 
+    .textodescri {
+        padding-right: 35px;
+        text-align: center;
+        color: black;
+    }
+ 
+    .sombra{
+        box-shadow: black 0px 0px 10px;
+ 
+    }
+    .box2{
+        margin: 100px;
+        
+    }
+ 
